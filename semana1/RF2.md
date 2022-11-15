@@ -3,9 +3,9 @@
 ## Recepción de datos de los sensores
 
 ### Obetención de datos
-*Obtener los datos administrados por los sensores
+* Obtener los datos administrados por los sensores
 
 ### Visualización de los datos
-*Mostrar los datos requeridos
+* Mostrar los datos requeridos
 
 
