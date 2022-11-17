@@ -26,7 +26,7 @@
 * Patrón Observer 
 
 ### Nombre
-* Asignación de ordenes
+* Almacen de órdenes y suministro
 
 ### Estado
 
@@ -34,7 +34,7 @@
 
 ### Problema de diseño 
 
-* Integrar la funcionalidad de asignar órdenes a operarios y que componentes fabricar a cada máquina. 
+* Almacenar las órdenes de trabajo por operario y el suministro disponible. 
 
 ### Identificador 
 
