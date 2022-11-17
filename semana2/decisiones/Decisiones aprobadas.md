@@ -25,6 +25,8 @@
 ### Opciones consideradas 
 * Patrón Observer 
 
+#
+
 ### Nombre
 * Almacen de órdenes y suministro
 
