@@ -52,9 +52,7 @@
 
 ### Opciones consideradas 
 
-* Patrón Facade 
+* Patrón base de datos por servicios 
 
-* Patrón Decorator 
-
-* Patrón Command 
+* Singleton
 
