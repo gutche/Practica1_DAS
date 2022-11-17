@@ -18,6 +18,7 @@
 
 ## Decision Drivers
 * RF4.1
+* RF4.2
 
 ## Opciones consideradas 
 
