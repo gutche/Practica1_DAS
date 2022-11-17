@@ -23,7 +23,6 @@
 * RF4.2
 
 ### Opciones consideradas 
-
 * Arquitectura por Eventos 
 
 * Patrón Obeserver 
