@@ -23,9 +23,7 @@
 * RF4.2
 
 ### Opciones consideradas 
-* Arquitectura por Eventos 
-
-* Patrón Obeserver 
+* Patrón Observer 
 
 ### Nombre
 * Asignación de ordenes
