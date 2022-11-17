@@ -14,14 +14,14 @@
 
 * D1
 
-### Justificación 
-
 ### Decision Drivers
 * RF4.1
 * RF4.2
 
 ### Opciones consideradas 
 * Patrón Observer 
+
+### Justificación 
 
 #
 
@@ -40,15 +40,15 @@
 
 * D2 
 
-### Justificación 
-
 ### Decision Drivers
 * RF3.1
 * RF3.2
 
-### Opciones consideradas 
+### Opciones consideradas
 
 * Patrón base de datos por servicios 
 
 * Singleton
+
+### Justificación 
 
