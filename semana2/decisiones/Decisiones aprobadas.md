@@ -10,8 +10,6 @@
 
 * Notificar a los operarios sobre los distintos eventos a los que estén suscritos.  
 
-### Solución 
-
 ### Identificador
 
 * D1
@@ -41,8 +39,6 @@
 ### Identificador 
 
 * D2 
-
-### Solución 
 
 ### Justificación 
 
