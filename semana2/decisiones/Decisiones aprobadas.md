@@ -4,7 +4,7 @@
 * Notificaciones
 
 ### Estado
-{**Proposed** | rejected | accepted | deprecated }
+{Proposed | rejected | **accepted** | deprecated }
 
 ### Problema de diseño 
 
