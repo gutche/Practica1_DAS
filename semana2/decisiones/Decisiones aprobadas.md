@@ -1,28 +1,26 @@
 ### Decisiones Aprobadas
 
-## Nombre
-
-* Detectar y almacenar datos
+# Nombre
+* Notificaciones
 
 ## Estado
-
 {**Proposed** | rejected | accepted | deprecated }
 
 ## Problema de diseño 
 
-* Se busca diseñar un sistema que pueda recibir los datos de los sensores y guardar dichos datos en una base de datos. 
-
-# Identificador 
-
-* D1 
+* Notificar a los operarios sobre los distintos eventos a los que estén suscritos.  
 
 ## Solución 
+
+## Identificador 
 
 ## Justificación 
 
 ## Decision Drivers
-* RF2
+* RF4.1
 
 ## Opciones consideradas 
 
-* Patrón base de datos por servicios 
+* Arquitectura por Eventos 
+
+* Patrón Obeserver 
