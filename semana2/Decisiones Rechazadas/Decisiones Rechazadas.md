@@ -1,6 +1,6 @@
 # Decisiones Rechazadas
 
-### Nombre
+## Nombre
 * Almacen de órdenes y suministro
 
 ### Estado
@@ -29,49 +29,49 @@
 
 #
 
-# Nombre 
+## Nombre 
 * Almacenamiento
 
-## Estado
+### Estado
 
 {**Proposed** | rejected | accepted | deprecated }
 
-## Problema de diseño 
+### Problema de diseño 
 
 * Almacenar las ordenes de trabajo de cada operario y la cantidad de suministro disponible. 
 
-## Identificador 
+### Identificador 
 
 * D4 
 
-## Solución 
+### Solución 
 
-## Justificación 
+### Justificación 
 
-## Opciones consideradas 
+### Opciones consideradas 
 
 * Patrón base de datos por servicios 
 
 #
 
-# Nombre
+## Nombre
 * Notificaciones
 
-## Estado
+### Estado
 {**Proposed** | rejected | accepted | deprecated }
 
-## Problema de diseño 
+### Problema de diseño 
 
 * Notificar a los operarios sobre los distintos eventos a los que estén suscritos.  
 
-## Solución 
+### Solución 
 
-## Identificador 
+### Identificador 
 D5
 
-## Justificación 
+### Justificación 
 
-## Opciones consideradas 
+### Opciones consideradas 
 
 * Arquitectura por Eventos 
 
