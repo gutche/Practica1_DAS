@@ -26,8 +26,9 @@
 ## Opciones consideradas 
 
 * Singleton 
+#
 
-# Nombre
+## Nombre
 * Notificaciones
 
 ## Estado
