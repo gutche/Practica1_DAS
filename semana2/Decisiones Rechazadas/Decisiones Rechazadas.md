@@ -51,3 +51,28 @@
 ## Opciones consideradas 
 
 * Patrón base de datos por servicios 
+
+#
+
+# Nombre
+* Notificaciones
+
+## Estado
+{**Proposed** | rejected | accepted | deprecated }
+
+## Problema de diseño 
+
+* Notificar a los operarios sobre los distintos eventos a los que estén suscritos.  
+
+## Solución 
+
+## Identificador 
+D5
+
+## Justificación 
+
+## Opciones consideradas 
+
+* Arquitectura por Eventos 
+
+* Patrón Obeserver 
