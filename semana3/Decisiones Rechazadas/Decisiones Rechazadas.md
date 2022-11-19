@@ -12,7 +12,7 @@
 
 * Se busca diseñar un sistema que pueda recibir los datos de los sensores y guardar dichos datos en una base de datos. 
 
-# Identificador 
+## Identificador 
 
 * D1 
 
