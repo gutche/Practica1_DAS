@@ -4,7 +4,7 @@
 * Notificaciones
 
 ### Estado
-**Accepted**
+* **Accepted**
 
 ### Problema de diseño 
 
