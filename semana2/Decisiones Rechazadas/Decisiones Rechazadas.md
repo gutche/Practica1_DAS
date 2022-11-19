@@ -1,6 +1,4 @@
-## Decisiones Rechazadas
-
-#
+# Decisiones Rechazadas
 
 ### Nombre
 * Almacen de órdenes y suministro
