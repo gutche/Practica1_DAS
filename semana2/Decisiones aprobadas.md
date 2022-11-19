@@ -52,3 +52,27 @@
 
 ### Justificación 
 
+#
+
+# Nombre 
+* Almacenamiento
+
+## Estado
+
+{**Proposed** | rejected | accepted | deprecated }
+
+## Problema de diseño 
+
+* Almacenar las ordenes de trabajo de cada operario y la cantidad de suministro disponible. 
+
+## Identificador 
+
+* D4 
+
+## Solución 
+
+## Justificación 
+
+## Opciones consideradas 
+
+* Patrón base de datos por servicios 
