@@ -30,19 +30,19 @@
 ## Nombre 
 * Almacenamiento
 
-### Estado
+## Estado
 
 {**Proposed** | rejected | accepted | deprecated }
 
-### Problema de diseño 
+## Problema de diseño 
 
 * Almacenar las ordenes de trabajo de cada operario y la cantidad de suministro disponible. 
 
-### Identificador 
+## Identificador 
 
 * D4 
 
-### Opciones consideradas 
+## Opciones consideradas 
 
 * Patrón base de datos por servicios 
 
@@ -51,17 +51,17 @@
 ## Nombre
 * Notificaciones
 
-### Estado
+## Estado
 {**Proposed** | rejected | accepted | deprecated }
 
-### Problema de diseño 
+## Problema de diseño 
 
 * Notificar a los operarios sobre los distintos eventos a los que estén suscritos.  
 
-### Identificador 
+## Identificador 
 D5
 
-### Opciones consideradas 
+## Opciones consideradas 
 
 * Arquitectura por Eventos 
 
