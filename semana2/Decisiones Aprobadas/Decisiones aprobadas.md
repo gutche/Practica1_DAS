@@ -28,7 +28,7 @@
 
 * El cockpit recibirá los datos proporcionados por los sensores, con el fin de que al cockpit le lleguen los datos clasificado se usará una clase intermedia de filtración.
 
-# Nombre
+## Nombre
 * Almacenamiento de órdenes y suministro
 
 ## Estado
