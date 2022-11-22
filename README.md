@@ -1,7 +1,5 @@
 # Práctica 1 DAS
 
-- Grupo 3 TEST
-
 |            **Nombre**             | **Rol** | **Usuario Github** |
 |:---------------------------------:|:-------:|:------------------:|
 |        Alberto Dekenó Maho        |   ASS   |       Kr4ll        |
