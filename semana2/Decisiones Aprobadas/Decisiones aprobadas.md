@@ -72,9 +72,9 @@
 * RF4.1
 
 ## Solución
-* Pub-Sub
+* Patrón Pub-Sub
 
 ## Justificación
 * La necesidad de notificar diversos tipos de eventos, nos lleva a pensar que necesitamos un mecanismo que pueda notificar a los distintos operarios sin someter al cockpit a extremada presión.
-* Para poder relegar esta funcionalidad, emplearemos el patrón observer basado en eventos, de modo que el cockpit solo necesitará una lista de eventos. 
-* El patrón pub-sub permite que la escalabilidad sea más asequible. Ya que la creación de nuevos eventos no ocasione grandes cambios en las demás estructuras, ya que heredan de una clase abstracta.
+* Para poder relegar esta funcionalidad, emplearemos el patrón Pub-Sub basado en eventos, de modo que el cockpit solo necesitará una lista de eventos. 
+* El patrón Pub-Sub permite que la escalabilidad sea más asequible. Ya que la creación de nuevos eventos no ocasione grandes cambios en las demás estructuras, ya que heredan de una clase abstracta.
